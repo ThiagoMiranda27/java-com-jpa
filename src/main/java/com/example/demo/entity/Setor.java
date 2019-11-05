@@ -2,7 +2,7 @@ package com.example.demo.entity;
 
 import javax.persistence.*;
 
-@Entity
+@Entity //uma tabela
 public class Setor {
 
     @Id
